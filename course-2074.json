@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-SlieNce810",
-  "commit": "f2ac8ff688175e2a5d7dfb7dafba00e264ec3bba",
-  "score": 43,
+  "commit": "4fd49d23b783ae22595f0a5e21ab215a9ec00275",
+  "score": 51,
   "totalScore": 100,
   "exercises": [
     {
@@ -79,16 +79,16 @@
     {
       "name": "atomic_ordering",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "spinlock",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "spinlock_guard",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "SlieNce810",
-  "runId": "40331672489",
+  "runId": "40476988370",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
