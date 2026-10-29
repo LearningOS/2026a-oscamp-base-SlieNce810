@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-SlieNce810",
-  "commit": "3b018aa8110024ccf5c3177603d5f6ad665b7bef",
-  "score": 60,
+  "commit": "eaf9bb5f67ebc6ad4a4dc37c44282a75e38d7d2d",
+  "score": 76,
   "totalScore": 100,
   "exercises": [
     {
@@ -107,23 +107,23 @@
     {
       "name": "stack_coroutine",
       "max": 6,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 6,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "green_threads",
       "max": 6,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 6,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "basic_future",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "tokio_tasks",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "SlieNce810",
-  "runId": "40502343816",
+  "runId": "40874127427",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
